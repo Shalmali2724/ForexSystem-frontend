@@ -1,0 +1,12 @@
+.main-div
+{
+   background-image: url("C:\Users\shnighot\Desktop\ForexServiceFrontend\forex\src\component\image\userBankBgImage.jpg");
+   background-repeat: no-repeat;
+   background-size:cover;
+
+}
+label
+{
+   color:white;
+  font-size:large;
+}

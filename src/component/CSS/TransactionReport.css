@@ -1,0 +1,88 @@
+.receipt {
+    background-color: #f5f5f5;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+    padding: 24px;
+    font-family: Arial, sans-serif;
+    
+  }
+  
+  .transaction-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 24px;
+  }
+  
+  .transaction-header h2 {
+    font-size: 28px;
+    font-weight: bold;
+    color: #444;
+    margin: 0;
+  }
+  
+  .transaction-header p {
+    font-size: 14px;
+    color: #666;
+    margin: 0;
+  }
+  
+  .transaction-details {
+    border-top: 2px solid #ccc;
+    border-bottom: 2px solid #ccc;
+    padding: 24px 0;
+    margin-bottom: 24px;
+  }
+  
+  .transaction-details p {
+    font-size: 16px;
+    color: #444;
+    margin: 0 0 12px;
+  }
+  
+  .transaction-details span {
+    font-weight: bold;
+  }
+  
+  .transaction-summary {
+    margin-bottom: 24px;
+  }
+  
+  .transaction-summary table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .transaction-summary th {
+    text-align: left;
+    font-weight: normal;
+    font-size: 14px;
+    color: #666;
+    padding: 8px 0;
+    border-bottom: 2px solid #ccc;
+  }
+  
+  .transaction-summary td {
+    text-align: right;
+    font-size: 16px;
+    color: #444;
+    padding: 8px 0;
+    border-bottom: 2px solid #ccc;
+  }
+  
+  .transaction-summary .total {
+    font-weight: bold;
+    font-size: 18px;
+  }
+  
+  .transaction-footer {
+    text-align: center;
+  }
+  
+  .transaction-footer p {
+    font-size: 14px;
+    color: #666;
+    margin: 0;
+  }
+  
+  
